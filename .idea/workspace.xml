@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a5ea4ea-da91-470b-a531-1a3225317400" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M3XP7EKTo4hiKb6dQ0yVB2ctil" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Owner/WebstormProjects/JavaScript-SoftUni&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\WebstormProjects\JavaScript-SoftUni\jsExams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.solve.js (1)">
+    <configuration name="Exam-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsExams/Exam-1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="classStorage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ObjectAndClasses/classStorage.js" working-dir="$PROJECT_DIR$/ObjectAndClasses">
+      <method v="2" />
+    </configuration>
+    <configuration name="solve.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ZEXAM/solve.js" working-dir="$PROJECT_DIR$/ZEXAM">
+      <method v="2" />
+    </configuration>
+    <configuration name="solve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/z-EXAM-HTTP/solve.js" working-dir="$PROJECT_DIR$/z-EXAM-HTTP">
+      <method v="2" />
+    </configuration>
+    <configuration name="thePianist.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsExams/thePianist.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.solve.js (1)" />
+        <item itemvalue="Node.js.solve.js" />
+        <item itemvalue="Node.js.thePianist.js" />
+        <item itemvalue="Node.js.classStorage.js" />
+        <item itemvalue="Node.js.Exam-1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a5ea4ea-da91-470b-a531-1a3225317400" name="Changes" comment="" />
+      <created>1676997212483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676997212483</updated>
+      <workItem from="1676997213562" duration="261000" />
+      <workItem from="1678811914808" duration="1186000" />
+      <workItem from="1678904262034" duration="4171000" />
+      <workItem from="1678984096954" duration="6271000" />
+      <workItem from="1678993184067" duration="2939000" />
+      <workItem from="1679079673142" duration="3718000" />
+      <workItem from="1679255242614" duration="2231000" />
+      <workItem from="1679323971726" duration="1473000" />
+      <workItem from="1679418696326" duration="596000" />
+      <workItem from="1679509642010" duration="3172000" />
+      <workItem from="1679595615315" duration="3550000" />
+      <workItem from="1679827116085" duration="17087000" />
+      <workItem from="1679906342399" duration="9104000" />
+      <workItem from="1679940019326" duration="6000" />
+      <workItem from="1680017814236" duration="604000" />
+      <workItem from="1680116273591" duration="2372000" />
+      <workItem from="1680169238692" duration="22073000" />
+      <workItem from="1680281298424" duration="9415000" />
+      <workItem from="1680362677344" duration="11193000" />
+      <workItem from="1680457611156" duration="4080000" />
+      <workItem from="1680462008414" duration="3776000" />
+      <workItem from="1680537315641" duration="7338000" />
+      <workItem from="1680550161768" duration="807000" />
+      <workItem from="1680551049773" duration="362000" />
+      <workItem from="1680599349899" duration="4751000" />
+      <workItem from="1680884844124" duration="9199000" />
+      <workItem from="1680946610762" duration="20851000" />
+      <workItem from="1681107108888" duration="5000" />
+      <workItem from="1681128712731" duration="14773000" />
+      <workItem from="1681232259745" duration="6053000" />
+      <workItem from="1681315841053" duration="6971000" />
+      <workItem from="1681400290666" duration="9212000" />
+      <workItem from="1681412918577" duration="3057000" />
+      <workItem from="1681487182558" duration="9829000" />
+      <workItem from="1681578147025" duration="6620000" />
+      <workItem from="1681662627220" duration="10793000" />
+      <workItem from="1681743443838" duration="4816000" />
+      <workItem from="1681751058926" duration="6677000" />
+      <workItem from="1681761353790" duration="11000" />
+      <workItem from="1681837346166" duration="10048000" />
+      <workItem from="1681917815663" duration="12338000" />
+      <workItem from="1681931480514" duration="250000" />
+      <workItem from="1681973034090" duration="14745000" />
+      <workItem from="1681988072163" duration="16000" />
+      <workItem from="1681988440929" duration="1200000" />
+      <workItem from="1687859760245" duration="12000" />
+      <workItem from="1687859939433" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/jsExams/jsExam-training.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/jsExams/jsExam-HeroesCodeLogic.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/jsExams/thePianist.js</url>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/jsExams/thePianist.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
